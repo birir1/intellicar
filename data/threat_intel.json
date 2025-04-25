@@ -1,0 +1,11 @@
+[
+    {
+      "log": "The attacker used CAN injection to spoof RPM data and trigger firmware exploits.",
+      "severity": "high"
+    },
+    {
+      "log": "The attacker tried to modify the brake pressure data.",
+      "severity": "medium"
+    }
+  ]
+  
